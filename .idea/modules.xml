@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/film1.iml" filepath="$PROJECT_DIR$/.idea/film1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../film2/.idea/film2.iml" filepath="$PROJECT_DIR$/../film2/.idea/film2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../react-kurs3/.idea/react-kurs3.iml" filepath="$PROJECT_DIR$/../react-kurs3/.idea/react-kurs3.iml" />
     </modules>
   </component>
